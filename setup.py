@@ -14,7 +14,7 @@ setup(
         'jmbo-foundry>=1.1.15',
     ],
     include_package_data=True,
-    tests_require = []
+    tests_require = [],
     test_suite="setuptest.setuptest.SetupTestSuite",
     classifiers=[
         "Programming Language :: Python",
